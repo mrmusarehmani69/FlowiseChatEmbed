@@ -53,7 +53,7 @@ export const Badge = (props: Props) => {
       Powered by
       <a
         ref={liteBadge}
-        href={'https://www.youtube.com/watch?v=4MSxi6-RYCI'}
+        href={'https://www.youtube.com/'}
         target="_blank"
         rel="noopener noreferrer"
         class="lite-badge"
